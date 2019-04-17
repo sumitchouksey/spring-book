@@ -3,10 +3,10 @@
   <groupId>com.sumitchouksey.book</groupId>
   <artifactId>data-support</artifactId>
   <versioning>
-    <release>5.0.0</release>
+    <release>Release-1.0.0</release>
     <versions>
-      <version>5.0.0</version>
+      <version>Release-1.0.0</version>
     </versions>
-    <lastUpdated>20190416111209</lastUpdated>
+    <lastUpdated>20190417105448</lastUpdated>
   </versioning>
 </metadata>
